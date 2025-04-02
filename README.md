@@ -9,7 +9,7 @@ From there I used the these instructions to install and configure the Rustdesk S
 No Docker!
 
 Both hbbr and hbbs are run with the -k <key> parameter to only allow clients with the same key to connect<br>
-I needed to add the -r <server_ip> to the hbbs to get clients to connect faster with having to force them to use the relay
+I needed to add the -r <server_ip> to the hbbs to get clients to connect faster without having to force them to use the relay
 
 I have also included two php scripts to monitor the clients connected to the server.
 
